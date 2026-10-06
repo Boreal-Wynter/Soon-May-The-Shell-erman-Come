@@ -1,4 +1,4 @@
-## Building a Shell, Oh Boy
+# Building a Shell, Oh Boy
 * The **Terminal** acts as the command line interface that takes the commands and send them to the shell.
 
 * The **Shell** is the interpreter that takes the user commands from the terminal and executes them.
@@ -7,7 +7,7 @@
 * NEXT...
 
 
-### Objective of the Project
+## Objective of the Project
 * Run a REPL
   <table>
     <tr>
@@ -37,7 +37,7 @@
 * NEXT...
 
 
-### How to Run Project
+## How to Run Project
 1. Ain't done shizzle
 
 2. Ain't done shizzle
@@ -45,7 +45,7 @@
 3. Ain't done shizzle
 
 
-### Credit to Resources
+## Credit to Resources
 * codecrafters.io
 
 * geeksforgeeks
