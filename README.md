@@ -6,17 +6,14 @@
 
   <style>
     background-color: #333333;
-
     body {
       font-family: JetBrains Mono;
       font-size: 10px;
       color: #F5F5F5;
     }
-
     h1 {
       font-size: 25;
     }
-
     h2 {
       font-size: 20;
     }
